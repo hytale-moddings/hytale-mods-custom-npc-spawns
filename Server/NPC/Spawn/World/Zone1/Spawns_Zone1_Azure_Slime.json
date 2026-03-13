@@ -1,0 +1,18 @@
+{
+  "Environments": [
+    "Env_Zone1_Azure",
+    "Env_Zone1_Forests"
+  ],
+  "NPCs": [
+    {
+      "Weight": 4,
+      "SpawnBlockSet": "Soil",
+      "Id": "Slime",
+      "Flock": "One_Or_Two"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

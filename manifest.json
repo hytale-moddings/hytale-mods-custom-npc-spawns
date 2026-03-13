@@ -1,0 +1,17 @@
+{
+  "Group": "HytaleModdingManual",
+  "Name": "NPCSpawning",
+  "Version": "1.0.0",
+  "Description": "Custom NPC spawn rules for Slime in Azure forests and Feran Enchanted Merchant in Feran cities",
+  "Authors": [
+    {
+      "Name": "HytaleModdingManual"
+    }
+  ],
+  "Dependencies": {
+    "HytaleModdingManual:CreateACustomNPC": "1.0.0",
+    "HytaleModdingManual:NPCShopsAndTrading": "1.0.0"
+  },
+  "OptionalDependencies": {},
+  "IncludesAssetPack": false
+}

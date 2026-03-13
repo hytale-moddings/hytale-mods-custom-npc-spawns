@@ -1,0 +1,16 @@
+{
+  "Model": "NPC_Spawn_Marker",
+  "Environments": [
+    "Env_Zone2_Feran"
+  ],
+  "NPCs": [
+    {
+      "Name": "Feran_Enchanted_Merchant",
+      "Weight": 100,
+      "SpawnAfterGameTime": "P1D"
+    }
+  ],
+  "ExclusionRadius": 20,
+  "MaxDropHeight": 4,
+  "DeactivationDistance": 150
+}
