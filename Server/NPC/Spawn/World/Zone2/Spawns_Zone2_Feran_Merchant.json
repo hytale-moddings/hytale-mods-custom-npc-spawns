@@ -1,18 +1,17 @@
 {
-  "Environments": [
-    "Env_Zone1_Azure",
-    "Env_Zone1_Forests"
-  ],
   "NPCs": [
     {
-      "Weight": 15,
+      "Weight": 100,
       "SpawnBlockSet": "Soil",
-      "Id": "Slime",
+      "Id": "Feran_Enchanted_Merchant",
       "Flock": "One_Or_Two"
     }
   ],
   "DayTimeRange": [
     6,
     18
+  ],
+  "Environments": [
+    "Env_Zone2_Feran"
   ]
 }
